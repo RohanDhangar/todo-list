@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import "./App.css";
+// import "./App.css";
 import AllTodos from "./Components/AllTodos";
 import TodoForm from "./Components/TodoForm";
 const App = () => {
